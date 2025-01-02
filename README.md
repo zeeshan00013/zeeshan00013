@@ -3,7 +3,6 @@
 
 ## 🌐 Socials: 
 [![Upwork](https://img.shields.io/badge/Upwork-white?logo=upwork)]((https://www.upwork.com/freelancers/~01b72be2f7aa334ee2))
-[![Fiverr](https://img.shields.io/badge/Fiverr-black?logo=fiverr)](https://www.fiverr.com/arslan_wp)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/zeeshu13)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:arslan.mumtaz04@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/923435306291)

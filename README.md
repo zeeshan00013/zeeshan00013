@@ -1,6 +1,6 @@
 # 💫 About Me:
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" /><br><h1 align="center">   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+zeeshan!;" /></h1><h3 align="center">A passionate MERN STACK DEVELOPER </h3><div align="center"> 🔭 currently working on: **TypeScript | NEXT.js**<br>
-- ⚽ Passion for Football.
+⚽ Passion for Football.
 
 ## 🌐 Socials: 
 [![Upwork](https://img.shields.io/badge/Upwork-white?logo=upwork)](https://www.upwork.com/freelancers/~01b72be2f7aa334ee2)
